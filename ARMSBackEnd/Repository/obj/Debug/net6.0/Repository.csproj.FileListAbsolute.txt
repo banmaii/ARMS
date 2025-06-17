@@ -1,0 +1,319 @@
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Data.deps.json
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Data.exe
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Repository.exe
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Repository.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\MailKit.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\MimeKit.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Data.dll
+D:\Job\Đức Anh\Bl_BE\Repository\bin\Debug\net6.0\Data.pdb
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.dll
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\Job\Đức Anh\Bl_BE\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Data.deps.json
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Data.exe
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Repository.exe
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Repository.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\MailKit.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\MimeKit.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Data.dll
+D:\Job\Đức Anh\BE_v1\Repository\bin\Debug\net6.0\Data.pdb
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.dll
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\Job\Đức Anh\BE_v1\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Data.deps.json
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Data.exe
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Repository.exe
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Repository.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\MailKit.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\MimeKit.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Data.dll
+D:\Job\Đức Anh\Clone_BE\Repository\bin\Debug\net6.0\Data.pdb
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.dll
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\Job\Đức Anh\Clone_BE\Repository\obj\Debug\net6.0\ref\Repository.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Data.deps.json
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Data.runtimeconfig.json
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Data.exe
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Repository.exe
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Repository.deps.json
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Repository.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Repository.pdb
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\MailKit.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\MimeKit.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Formats.Asn1.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Runtime.Caching.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Data.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\bin\Debug\net6.0\Data.pdb
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\refint\Repository.dll
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.pdb
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+I:\Do_an_2024\ARMSBackEnd\Repository\obj\Debug\net6.0\ref\Repository.dll
